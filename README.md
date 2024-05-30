@@ -17,7 +17,7 @@ Namaste! 🙏 Welcome to Segabot - your friendly AI-powered tutor 📚. Segabot 
 
 2. **Install the required packages:** Navigate to the project directory and install the requirements:
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirement.txt
     ```
 
 3. **Set up API Key:** Obtain an API key from GroqCloud and set it as an environment variable in your system or create a `.env` file in the project directory with the following format:
