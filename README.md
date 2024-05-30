@@ -12,7 +12,7 @@ Namaste! 🙏 Welcome to Segabot - your friendly AI-powered tutor 📚. Segabot 
 
 1. **Clone the repository:** Clone the Segabot repository on your local machine using the following command:
     ```bash
-    git clone https://github.com/theshriramgupta/segabot.git
+    git clone https://github.com/theshriramgupta/AI_Chatbot.git
     ```
 
 2. **Install the required packages:** Navigate to the project directory and install the requirements:
