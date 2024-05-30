@@ -35,7 +35,7 @@ Namaste! 🙏 Welcome to Segabot - your friendly AI-powered tutor 📚. Segabot 
 ## Contact Information
 
 - **Gmail:** [guptashriram0308@gmail.com](mailto:guptashriram0308@gmail.com)
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/shriram-gupta-0308)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/shriram-gupta-643906204/)
 
 ## Contributing
 
